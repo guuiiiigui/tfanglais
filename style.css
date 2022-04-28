@@ -1,0 +1,41 @@
+h1{
+	color: green;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+}
+
+h2{
+	color: green;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+}
+
+body
+{
+	background-color: green;
+}
+
+#carte
+{
+
+	width: 800px;
+	margin:0 auto;
+	background-color: black;
+	text-align: center;
+	align-content: center;
+}
+
+p{
+	color: green;
+	font-family: 'Roboto Mono', monospace;
+}
+
+ul{
+	color: green;
+	font-family: 'Roboto Mono', monospace;
+}
+
+img{
+	margin-top: 20px;
+	font-family: 'Roboto Mono', monospace;
+}
